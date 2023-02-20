@@ -8,7 +8,4 @@ class Person {
   int age = 25;
 }
 
-void main() {
-  Person ans = Person();
-  print(ans.name);
-}
+void main() {}
